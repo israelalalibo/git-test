@@ -7,3 +7,6 @@ some wrong text
 this is the text to integrate the second new feature
 
 Here is some text 
+
+
+//we will try and break the git algorithm
